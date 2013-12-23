@@ -1,0 +1,10 @@
+bin
+.settings
+.project
+.classpath
+gen
+lint.xml
+.swp
+.gradle/
+gradle/
+local.properties
