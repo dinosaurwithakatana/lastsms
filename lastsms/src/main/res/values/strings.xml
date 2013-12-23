@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Last SMS</string>
     <string name="app_desc">Displays the Last SMS in your inbox</string>
+    <string name="pref_privacy_desc">On to show message body</string>
+    <string name="pref_privacy">pref_privacy</string>
+    <string name="pref_privacy_title">Privacy mode</string>
+    <string name="title_settings">Last SMS Preferences</string>
 </resources>
