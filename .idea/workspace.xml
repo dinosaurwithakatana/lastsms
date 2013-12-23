@@ -77,13 +77,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LastSMSExtension.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LastSMSExtension.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lastsms/src/main/java/com/dwak/lastsms/LastSMSExtension.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.29918033" vertical-offset="844" max-vertical-offset="1332">
+            <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="1332">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="62" selection-start="86" selection-end="121" vertical-scroll-proportion="0.07185629" vertical-offset="0" max-vertical-offset="501">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1218,13 +1227,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="35" selection-start="47" selection-end="47" vertical-scroll-proportion="0.02406417" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/drawable-hdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1277,10 +1279,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lastsms/src/main/java/com/dwak/lastsms/LastSMSExtension.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.29918033" vertical-offset="844" max-vertical-offset="1332">
+        <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="1332">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="62" selection-start="86" selection-end="121" vertical-scroll-proportion="0.07185629" vertical-offset="0" max-vertical-offset="501">
+          <folding />
         </state>
       </provider>
     </entry>
