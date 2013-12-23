@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">lastsms</string>
+    <string name="app_name">Last SMS</string>
+    <string name="app_desc">Displays the Last SMS in your inbox</string>
 </resources>

@@ -23,4 +23,6 @@ android {
 }
 
 dependencies {
+	compile 'com.google.android.apps.dashclock:dashclock-api:+'
+	compile 'com.android.support:support-v4:+'
 }
