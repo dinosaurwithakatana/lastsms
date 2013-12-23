@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LastSMSExtension.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LastSMSExtension.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lastsms/src/main/java/com/dwak/lastsms/LastSMSExtension.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="1332">
+            <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="1.6270492" vertical-offset="196" max-vertical-offset="1332">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="62" selection-start="86" selection-end="121" vertical-scroll-proportion="0.07185629" vertical-offset="0" max-vertical-offset="501">
+            <state line="2" column="62" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
               <folding />
             </state>
           </provider>
@@ -1266,6 +1266,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="62" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lastsms/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="39" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
@@ -1279,17 +1286,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lastsms/src/main/java/com/dwak/lastsms/LastSMSExtension.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="1332">
+        <state line="55" column="0" selection-start="2292" selection-end="2292" vertical-scroll-proportion="1.6270492" vertical-offset="196" max-vertical-offset="1332">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lastsms/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="62" selection-start="86" selection-end="121" vertical-scroll-proportion="0.07185629" vertical-offset="0" max-vertical-offset="501">
-          <folding />
         </state>
       </provider>
     </entry>
